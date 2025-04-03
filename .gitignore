@@ -1,0 +1,53 @@
+# Ignore Python cache and logs
+__pycache__/
+*.log
+
+# Ignore large data files
+*.csv
+*.tsv
+*.json
+*.pth
+*.ckpt
+*.h5
+*.pkl
+
+# Ignore dataset and cache directories
+data/
+cache/
+logs/
+datasets/
+# Python
+__pycache__
+*.pyc
+*.egg-info
+dist
+
+# Log
+*.log
+*.log.*
+*.json
+*.jsonl
+
+# Data
+!**/alpaca-data-conversation.json
+
+# Editor
+.idea
+*.swp
+
+# Other
+.DS_Store
+wandb
+output
+
+checkpoints
+ckpts*
+
+.ipynb_checkpoints
+*.ipynb
+
+# DevContainer
+!.devcontainer/*
+
+# Demo
+serve_images/
