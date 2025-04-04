@@ -1,4 +1,4 @@
-# 🌋 LLaVA-SSD: FastLLaVA
+# LLaVA-SSD: FastLLaVA
 *Visual instruction tuning towards large language and vision models with GPT-4 level capabilities.*
 
 ## Contents
