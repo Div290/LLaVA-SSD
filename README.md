@@ -14,11 +14,6 @@
 
 If you are not using Linux, do *NOT* proceed, see instructions for [macOS](https://github.com/haotian-liu/LLaVA/blob/main/docs/macOS.md) and [Windows](https://github.com/haotian-liu/LLaVA/blob/main/docs/Windows.md).
 
-1. Clone this repository and navigate to LLaVA folder
-```bash
-git clone https://github.com/Div290/LLaVA-SSD/
-cd LLaVA
-```
 
 2. Install Package
 ```Shell
